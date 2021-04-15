@@ -2,5 +2,11 @@
   "name": "Meet Auto Leave",
   "description": "chrome extension to leave google meet at a scheduled time!",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "author": "ani-dev",
+  "browser_action": {
+    "default_icon": "",
+    "default_popup": "index.html",
+    "default_title": "Auto Leave"
+  }
 }
