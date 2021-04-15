@@ -8,5 +8,11 @@
     "default_icon": "",
     "default_popup": "index.html",
     "default_title": "Auto Leave"
-  }
+  },
+  "content_scripts": [
+    {
+      "js": ["background.js"],
+      "matches": ["https://meet.google.com/*"]
+    }
+  ]
 }
