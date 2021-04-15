@@ -32,7 +32,7 @@ document.querySelector('.fa-check').addEventListener('click', () => {
       }, 2500);
     } else {
       localStorage.setItem('bgWork', 1);
-      document.querySelector('inputVal').disabled = true;
+      document.querySelector('.inputVal').disabled = true;
       // localStorage.setItem('value', obj.value);
       // localStorage.setItem('area', obj.select);
       document.querySelector('.fa-plane-slash').style.visibility = 'hidden';
@@ -47,9 +47,9 @@ document.querySelector('.fa-check').addEventListener('click', () => {
     }
   } else {
     console.log('enter value');
-    document.querySelector('inputVal').style.border = '2px solid red';
+    document.querySelector('.inputVal').style.border = '2px solid red';
     setTimeout(() => {
-      document.querySelector('inputVal').style.border = '1px solid black';
+      document.querySelector('.inputVal').style.border = '1px solid black';
     }, 2000);
   }
 });
