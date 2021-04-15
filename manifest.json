@@ -1,0 +1,6 @@
+{
+    "name": "Meet Auto Leave",
+    "description": "chrome extension to leave google meet at a scheduled time!",
+    "version": "1.0",
+    "manifest_version": 3
+}
