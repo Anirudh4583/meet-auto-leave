@@ -18,7 +18,6 @@ The extension could be handy in situations when you're not there to click the en
   - [How to Get the Extension?](#how-to-get-the-extension)
   - [How to Use?](#how-to-use)
 - [Contributors](#contributors)
-- [Stargazers over time 📈](#stargazers-over-time)
 
 # INSTALL <i class="fas fa-download"></i>
 
