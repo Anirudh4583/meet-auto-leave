@@ -45,9 +45,7 @@ The extension works on Google Meet site "https://meet.google.com/*".
 
 # CONTRIBUTORS <i class="fas fa-user-friends"></i>
 
-<a href="https://github.com/anirudh4583"><img src="https://avatars.githubusercontent.com/u/34450549?s=400&u=ed28571f9bc31bf0196d4ed57ea4c78062cf184d&v=4" width="120px;" alt=""/><span>
-Anirudh Mitra
-</span></a>
+<a href="https://github.com/anirudh4583"><img src="https://avatars.githubusercontent.com/u/34450549?s=400&u=ed28571f9bc31bf0196d4ed57ea4c78062cf184d&v=4" width="120px;" alt=""/><p>Anirudh Mitra</p></a>
 
 # LICENSE <i class="fas fa-certificate"></i>
 
