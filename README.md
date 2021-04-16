@@ -38,7 +38,7 @@ The extension could be handy in situations when you're not there to click the en
 The extension works on Google Meet site "https://meet.google.com/*".
 
 - Click the extension icon
-- Enter the time to schedule and click the tick✔ button.
+- Enter the time to schedule and click the tick✅ button.
 - The meet will end at the scheduled time. Enjoy!!
 - To cancel the timer and kill the background process press the cross❌ button anytime.
 - The extension popup window shows plane icon <i class="fas fa-plane"></i> when it's working in the background and plane-slash <i class="fas fa-plane-slash"></i> when it's not.
