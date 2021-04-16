@@ -62,6 +62,6 @@ document.querySelector('.fa-times').addEventListener('click', () => {
   document.querySelector('.fa-plane').style.visibility = 'hidden';
   chrome.tabs.query({ currentWsindow: true, actise: true }, function (tabs) {
     var activeTab = tabs[0];
-    chrome.tabs.sendMessage(activeTab.id, { message: 'stopbtnclicked' });
+    chrome.tabs.sendMessage(activeTab.id, { message: 'timesClicked' });
   });
 });

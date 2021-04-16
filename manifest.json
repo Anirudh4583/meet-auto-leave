@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "author": "ani-dev",
   "browser_action": {
-    "default_icon": "",
+    "default_icon": "exit.png",
     "default_popup": "index.html",
     "default_title": "Auto Leave"
   },
