@@ -31,9 +31,9 @@ function timefunction() {
   if (time == obj.value) {
     console.log('Ending meet');
     try {
-      window.document.querySelector('').click();
+      window.document.querySelector('.FbBiwc').click();
     } catch {
-      console.log('ERROR');
+      console.log('ERROR!');
     }
   } else {
     t = setTimeout(timefunction, 60000);
