@@ -60,7 +60,7 @@ document.querySelector('.fa-times').addEventListener('click', () => {
   localStorage.setItem('bgWork', 0);
   document.querySelector('.fa-plane-slash').style.visibility = 'visible';
   document.querySelector('.fa-plane').style.visibility = 'hidden';
-  chrome.tabs.query({ currentWsindow: true, actise: true }, function (tabs) {
+  chrome.tabs.query({ currentWindow: true, actise: true }, function (tabs) {
     var activeTab = tabs[0];
     chrome.tabs.sendMessage(activeTab.id, { message: 'timesClicked' });
   });
